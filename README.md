@@ -43,3 +43,12 @@ Eventos
 Projetos Pessoais
 	Viagem até o nordeste de moto
 	
+
+Redes Sociais
+	linkedin: guilherme-kun
+	facebook: guilherme.kun
+	instagram: guilherme_kun
+	
+
+Informações adicionais
+	Já tive o prazer de trabalhar e coordenar e alguns projetos sociais.
