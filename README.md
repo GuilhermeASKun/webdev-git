@@ -32,10 +32,14 @@ Cursos/Qualificações
 
 Conhecimentos
 	Conhecimento em desenvolvimento de software
-	
+
+
 Eventos
 	Meetup 
 	TicNova
 	Hackathon
-	
+
+
+Projetos Pessoais
+	Viagem até o nordeste de moto
 	
