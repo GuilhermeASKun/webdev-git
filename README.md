@@ -29,4 +29,13 @@ Cursos/Qualificações
 	instituição: Udemy
 	curso: Curso de programação
 
+
+Conhecimentos
+	Conhecimento em desenvolvimento de software
+	
+Eventos
+	Meetup 
+	TicNova
+	Hackathon
+	
 	
