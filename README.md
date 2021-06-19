@@ -8,9 +8,25 @@ Dados Pessoais
 Formação Acadêmica cronológica decrescente (da mais atual para a mais antiga)
 	instituição:  UniAlfa
 	curso: PÓS-GRADUAÇÃO WEBDEV - Desenvolvimento de Aplicações para Internet e Dispositivos Móveis
-	termino: Dez/2022
+	termino: Dezembro/2022
 	
 	instituição:  UniCesumar
 	curso: GRADUAÇÃO em Análise e Desenvolvimento de Sistemas
-	termino: JUL/2016
+	termino: Julho/2016
+
+	
+Experiência Profissional
+	empresa: GazinTech
+	cargo: Desenvolvedor
+	inicio: Março/2021 à atual
+	
+	empresa: SG Sistemas
+	cargo: Desenvolvedor
+	inicio: Janeiro/2012 à Março/2021
+
+
+Cursos/Qualificações
+	instituição: Udemy
+	curso: Curso de programação
+
 	
